@@ -52,7 +52,7 @@
 - [ ] Game of Life
 ## Hashmap
 - [X] Ransom Note
-- [ ] Isomorphic Strings
+- [X] Isomorphic Strings
 - [ ] Word Pattern
 - [ ] Valid Anagram
 - [ ] Group Anagrams
