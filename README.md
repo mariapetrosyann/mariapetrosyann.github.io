@@ -51,7 +51,7 @@
 - [ ] Set Matrix Zeroes
 - [ ] Game of Life
 ## Hashmap
-- [ ] Ransom Note
+- [X] Ransom Note
 - [ ] Isomorphic Strings
 - [ ] Word Pattern
 - [ ] Valid Anagram
