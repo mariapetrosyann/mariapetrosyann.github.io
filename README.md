@@ -53,7 +53,7 @@
 ## Hashmap
 - [X] Ransom Note
 - [X] Isomorphic Strings
-- [ ] Word Pattern
+- [X] Word Pattern
 - [ ] Valid Anagram
 - [ ] Group Anagrams
 - [ ] Two Sum
