@@ -56,7 +56,7 @@
 - [X] Word Pattern
 - [X] Valid Anagram
 - [ ] Group Anagrams
-- [ ] Two Sum
+- [X] Two Sum
 - [ ] Happy Number
 - [ ] Contains Duplicate II
 - [ ] Longest Consecutive Sequence
