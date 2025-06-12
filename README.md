@@ -54,7 +54,7 @@
 - [X] Ransom Note
 - [X] Isomorphic Strings
 - [X] Word Pattern
-- [ ] Valid Anagram
+- [X] Valid Anagram
 - [ ] Group Anagrams
 - [ ] Two Sum
 - [ ] Happy Number
