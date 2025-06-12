@@ -58,7 +58,7 @@
 - [ ] Group Anagrams
 - [X] Two Sum
 - [X] Happy Number
-- [ ] Contains Duplicate II
+- [X] Contains Duplicate II
 - [ ] Longest Consecutive Sequence
 ## Intervals
 - [ ] Summary Ranges
