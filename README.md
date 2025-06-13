@@ -66,7 +66,7 @@
 - [ ]  Insert Interval
 - [ ]  Minimum Number of Arrows to Burst Balloons
 ## Stack
-- [ ]  Valid Parentheses
+- [X]  Valid Parentheses
 - [ ]  Simplify Path
 - [ ]  Min Stack
 - [ ]  Evaluate Reverse Polish Notation
