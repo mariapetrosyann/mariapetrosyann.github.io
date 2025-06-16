@@ -21,7 +21,7 @@
 - [X]  Jump Game II
 - [ ]  H-Index
 - [ ]  Insert Delete GetRandom O(1)
-- [ ]  Product of Array Except Self
+- [X]  Product of Array Except Self
 - [ ]  Gas Station
 - [ ]  Candy
 - [ ]  Trapping Rain Water
