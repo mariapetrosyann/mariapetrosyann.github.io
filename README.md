@@ -14,7 +14,7 @@
 - [X]  Remove Duplicates from Sorted Array
 - [ ]  Remove Duplicates from Sorted Array II
 - [X]  Majority Element
-- [ ]  Rotate Array
+- [X]  Rotate Array
 - [X]  Best Time to Buy and Sell Stock
 - [ ]  Best Time to Buy and Sell Stock II
 - [ ]  Jump Game
