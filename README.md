@@ -12,7 +12,7 @@
 - [X]  Merge Sorted Array
 - [X]  Remove Element
 - [X]  Remove Duplicates from Sorted Array
-- [ ]  Remove Duplicates from Sorted Array II
+- [X]  Remove Duplicates from Sorted Array II
 - [X]  Majority Element
 - [X]  Rotate Array
 - [X]  Best Time to Buy and Sell Stock
