@@ -36,7 +36,7 @@
 ## Two Pointers
 - [X]  Valid Palindrome
 - [X]  Is Subsequence
-- [ ]  Two Sum II - Input Array Is Sorted
+- [X]  Two Sum II - Input Array Is Sorted
 - [ ]  Container With Most Water
 - [ ]  3Sum
 ## Sliding Window
