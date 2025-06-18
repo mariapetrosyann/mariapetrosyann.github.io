@@ -40,7 +40,7 @@
 - [ ]  Container With Most Water
 - [X]  3Sum
 ## Sliding Window
-- [ ]  Minimum Size Subarray Sum
+- [X]  Minimum Size Subarray Sum
 - [ ]  Longest Substring Without Repeating Characters
 - [ ]  Substring with Concatenation of All Words
 - [ ]  Minimum Window Substring
