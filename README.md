@@ -55,7 +55,7 @@
 - [X]  Isomorphic Strings
 - [X]  Word Pattern
 - [X]  Valid Anagram
-- [ ]  Group Anagrams
+- [X]  Group Anagrams
 - [X]  Two Sum
 - [X]  Happy Number
 - [X]  Contains Duplicate II
