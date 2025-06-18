@@ -38,7 +38,7 @@
 - [X]  Is Subsequence
 - [X]  Two Sum II - Input Array Is Sorted
 - [ ]  Container With Most Water
-- [ ]  3Sum
+- [X]  3Sum
 ## Sliding Window
 - [ ]  Minimum Size Subarray Sum
 - [ ]  Longest Substring Without Repeating Characters
