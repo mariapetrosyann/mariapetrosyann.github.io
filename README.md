@@ -59,7 +59,7 @@
 - [X]  Two Sum
 - [X]  Happy Number
 - [X]  Contains Duplicate II
-- [ ]  Longest Consecutive Sequence
+- [X]  Longest Consecutive Sequence
 ## Intervals
 - [ ]  Summary Ranges
 - [ ]  Merge Intervals
