@@ -47,7 +47,7 @@
 ## Matrix
 - [X]  Valid Sudoku
 - [X]  Spiral Matrix
-- [ ]  Rotate Image
+- [X]  Rotate Image
 - [X]  Set Matrix Zeroes
 - [ ]  Game of Life
 ## Hashmap
