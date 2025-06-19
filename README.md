@@ -46,7 +46,7 @@
 - [ ]  Minimum Window Substring
 ## Matrix
 - [X]  Valid Sudoku
-- [ ]  Spiral Matrix
+- [X]  Spiral Matrix
 - [ ]  Rotate Image
 - [ ]  Set Matrix Zeroes
 - [ ]  Game of Life
