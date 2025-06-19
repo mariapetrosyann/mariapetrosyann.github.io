@@ -8,7 +8,7 @@
 - Transformer
 
 # Leet Code
-## Array / String
+## - [ ] Array / String
 - [X]  Merge Sorted Array
 - [X]  Remove Element
 - [X]  Remove Duplicates from Sorted Array
@@ -33,24 +33,24 @@
 - [ ]  Zigzag Conversion
 - [X]  Find the Index of the First Occurrence in a String
 - [ ]  Text Justification
-## Two Pointers
+## - [ ] Two Pointers
 - [X]  Valid Palindrome
 - [X]  Is Subsequence
 - [X]  Two Sum II - Input Array Is Sorted
 - [ ]  Container With Most Water
 - [X]  3Sum
-## Sliding Window
+## - [ ] Sliding Window
 - [X]  Minimum Size Subarray Sum
 - [ ]  Longest Substring Without Repeating Characters
 - [ ]  Substring with Concatenation of All Words
 - [ ]  Minimum Window Substring
-## Matrix
+## - [ ] Matrix
 - [X]  Valid Sudoku
 - [X]  Spiral Matrix
 - [ ]  Rotate Image
 - [X]  Set Matrix Zeroes
 - [ ]  Game of Life
-## Hashmap
+## - [X] Hashmap
 - [X]  Ransom Note
 - [X]  Isomorphic Strings
 - [X]  Word Pattern
@@ -60,18 +60,18 @@
 - [X]  Happy Number
 - [X]  Contains Duplicate II
 - [X]  Longest Consecutive Sequence
-## Intervals
+## - [ ] Intervals
 - [ ]  Summary Ranges
 - [ ]  Merge Intervals
 - [ ]  Insert Interval
 - [ ]  Minimum Number of Arrows to Burst Balloons
-## Stack
+## - [ ] Stack
 - [X]  Valid Parentheses
 - [ ]  Simplify Path
 - [ ]  Min Stack
 - [ ]  Evaluate Reverse Polish Notation
 - [ ]  Basic Calculator
-## Linked List
+## - [ ] Linked List
 - [ ]  Linked List Cycle
 - [ ]  Add Two Numbers
 - [ ]  Merge Two Sorted Lists
@@ -83,7 +83,7 @@
 - [ ]  Rotate List
 - [ ]  Partition List
 - [ ]  LRU Cache
-## Binary Tree General
+## - [ ] Binary Tree General
 - [ ]  Maximum Depth of Binary Tree
 - [ ]  Same Tree
 - [ ]  Invert Binary Tree
@@ -98,31 +98,31 @@
 - [ ]  Binary Search Tree Iterator
 - [ ]  Count Complete Tree Nodes
 - [ ]  Lowest Common Ancestor of a Binary Tree
-## Binary Tree BFS
+## - [ ] Binary Tree BFS
 - [ ]  Binary Tree Right Side View
 - [ ]  Average of Levels in Binary Tree
 - [ ]  Binary Tree Level Order Traversal
 - [ ]  Binary Tree Zigzag Level Order Traversal
-## Binary Search Tree
+## - [ ] Binary Search Tree
 - [ ]  Minimum Absolute Difference in BST
 - [ ]  Kth Smallest Element in a BST
 - [ ]  Validate Binary Search Tree
-## Graph General
+## - [ ] Graph General
 - [ ]  Number of Islands
 - [ ]  Surrounded Regions
 - [ ]  Clone Graph
 - [ ]  Evaluate Division
 - [ ]  Course Schedule
 - [ ]  Course Schedule II
-## Graph BFS
+## - [ ] Graph BFS
 - [ ]  Snakes and Ladders
 - [ ]  Minimum Genetic Mutation
 - [ ]  Word Ladder
-## Trie
+## - [ ] Trie
 - [ ]  Implement Trie (Prefix Tree)
 - [ ]  Design Add and Search Words Data Structure
 - [ ]  Word Search II
-## Backtracking
+## - [ ] Backtracking
 - [ ]  Letter Combinations of a Phone Number
 - [ ]  Combinations
 - [ ]  Permutations
@@ -130,15 +130,15 @@
 - [ ]  N-Queens II
 - [ ]  Generate Parentheses
 - [ ]  Word Search
-## Divide & Conquer
+## - [ ] Divide & Conquer
 - [ ]  Convert Sorted Array to Binary Search Tree
 - [ ]  Sort List
 - [ ]  Construct Quad Tree
 - [ ]  Merge k Sorted Lists
-## Kadane's Algorithm
+## - [ ] Kadane's Algorithm
 - [ ]  Maximum Subarray
 - [ ]  Maximum Sum Circular Subarray
-## Binary Search
+## - [ ] Binary Search
 - [ ]  Search Insert Position
 - [ ]  Search a 2D Matrix
 - [ ]  Find Peak Element
@@ -146,32 +146,32 @@
 - [ ]  Find First and Last Position of Element in Sorted Array
 - [ ]  Find Minimum in Rotated Sorted Array
 - [ ]  Median of Two Sorted Arrays
-## Heap
+## - [ ] Heap
 - [ ]  Kth Largest Element in an Array
 - [ ]  IPO
 - [ ]  Find K Pairs with Smallest Sums
 - [ ]  Find Median from Data Stream
-## Bit Manipulation
+## - [ ] Bit Manipulation
 - [ ]  Add Binary
 - [ ]  Reverse Bits
 - [ ]  Number of 1 Bits
 - [ ]  Single Number
 - [ ]  Single Number II
 - [ ]  Bitwise AND of Numbers Range
-## Math
+## - [ ] Math
 - [ ]  Palindrome Number
 - [ ]  Plus One
 - [ ]  Factorial Trailing Zeroes
 - [ ]  Sqrt(x)
 - [ ]  Pow(x, n)
 - [ ]  Max Points on a Line
-## 1D DP
+## - [ ] 1D DP
 - [ ]  Climbing Stairs
 - [ ]  House Robber
 - [ ]  Word Break
 - [ ]  Coin Change
 - [ ]  Longest Increasing Subsequence
-## Multidimensional DP
+## - [ ] Multidimensional DP
 - [ ]  Triangle
 - [ ]  Minimum Path Sum
 - [ ]  Unique Paths II
