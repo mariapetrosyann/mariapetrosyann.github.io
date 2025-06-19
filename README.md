@@ -45,7 +45,7 @@
 - [ ]  Substring with Concatenation of All Words
 - [ ]  Minimum Window Substring
 ## Matrix
-- [ ]  Valid Sudoku
+- [X]  Valid Sudoku
 - [ ]  Spiral Matrix
 - [ ]  Rotate Image
 - [ ]  Set Matrix Zeroes
