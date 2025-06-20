@@ -49,7 +49,7 @@
 - [X]  Spiral Matrix
 - [X]  Rotate Image
 - [X]  Set Matrix Zeroes
-- [ ]  Game of Life
+- [X]  Game of Life
 ## Hashmap
 - [X]  Ransom Note
 - [X]  Isomorphic Strings
