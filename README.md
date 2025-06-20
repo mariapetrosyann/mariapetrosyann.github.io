@@ -19,7 +19,7 @@
 - [X]  Best Time to Buy and Sell Stock II
 - [X]  Jump Game
 - [X]  Jump Game II
-- [ ]  H-Index
+- [X]  H-Index
 - [ ]  Insert Delete GetRandom O(1)
 - [X]  Product of Array Except Self
 - [ ]  Gas Station
