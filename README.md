@@ -62,7 +62,7 @@
 - [X]  Longest Consecutive Sequence
 ## Intervals
 - [X]  Summary Ranges
-- [ ]  Merge Intervals
+- [X]  Merge Intervals
 - [ ]  Insert Interval
 - [ ]  Minimum Number of Arrows to Burst Balloons
 ## Stack
