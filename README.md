@@ -41,7 +41,7 @@
 - [X]  3Sum
 ## Sliding Window
 - [X]  Minimum Size Subarray Sum
-- [ ]  Longest Substring Without Repeating Characters
+- [X]  Longest Substring Without Repeating Characters
 - [ ]  Substring with Concatenation of All Words
 - [ ]  Minimum Window Substring
 ## Matrix
