@@ -26,7 +26,7 @@
 - [ ]  Candy
 - [ ]  Trapping Rain Water
 - [X]  Roman to Integer
-- [ ]  Integer to Roman
+- [X]  Integer to Roman
 - [X]  Length of Last Word
 - [X]  Longest Common Prefix
 - [X]  Reverse Words in a String
