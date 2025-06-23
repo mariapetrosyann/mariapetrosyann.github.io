@@ -30,7 +30,7 @@
 - [X]  Length of Last Word
 - [X]  Longest Common Prefix
 - [X]  Reverse Words in a String
-- [ ]  Zigzag Conversion
+- [X]  Zigzag Conversion
 - [X]  Find the Index of the First Occurrence in a String
 - [ ]  Text Justification
 ## Two Pointers
