@@ -69,7 +69,7 @@
 - [X]  Valid Parentheses
 - [X]  Simplify Path
 - [ ]  Min Stack
-- [ ]  Evaluate Reverse Polish Notation
+- [X]  Evaluate Reverse Polish Notation
 - [ ]  Basic Calculator
 ## Linked List
 - [ ]  Linked List Cycle
