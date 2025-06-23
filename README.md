@@ -67,7 +67,7 @@
 - [ ]  Minimum Number of Arrows to Burst Balloons
 ## Stack
 - [X]  Valid Parentheses
-- [ ]  Simplify Path
+- [X]  Simplify Path
 - [ ]  Min Stack
 - [ ]  Evaluate Reverse Polish Notation
 - [ ]  Basic Calculator
