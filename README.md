@@ -64,7 +64,7 @@
 - [X]  Summary Ranges
 - [X]  Merge Intervals
 - [X]  Insert Interval
-- [ ]  Minimum Number of Arrows to Burst Balloons
+- [X]  Minimum Number of Arrows to Burst Balloons
 ## Stack
 - [X]  Valid Parentheses
 - [X]  Simplify Path
