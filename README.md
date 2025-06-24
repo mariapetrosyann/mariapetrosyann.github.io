@@ -68,7 +68,7 @@
 ## Stack
 - [X]  Valid Parentheses
 - [X]  Simplify Path
-- [ ]  Min Stack
+- [X]  Min Stack
 - [X]  Evaluate Reverse Polish Notation
 - [ ]  Basic Calculator
 ## Linked List
